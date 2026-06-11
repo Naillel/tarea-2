@@ -1,0 +1,93 @@
+[
+  {
+    "nombre": "Copa Mundial Uruguay 1930",
+    "anio": 1930,
+    "sede": "Uruguay",
+    "campeon": "Uruguay",
+    "subcampeon": "Argentina",
+    "goleador": "Guillermo Stábile",
+    "equipos": 13,
+    "imagen": "uruguay-1930.avif",
+    "slug": "uruguay-1930",
+    "resumen": "El primer Mundial de la historia, organizado por Uruguay.",
+    "descripcion": "Uruguay fue sede y campeón del primer torneo mundialista, venciendo a Argentina 4-2 en la final."
+  },
+  {
+    "nombre": "Copa Mundial Brasil 1950",
+    "anio": 1950,
+    "sede": "Brasil",
+    "campeon": "Uruguay",
+    "subcampeon": "Brasil",
+    "goleador": "Ademir de Menezes",
+    "equipos": 13,
+    "imagen": "brasil-1950.avif",
+    "slug": "brasil-1950",
+    "resumen": "El Maracanazo: Uruguay venció a Brasil en su propia casa.",
+    "descripcion": "En el estadio Maracaná ante 200.000 espectadores, Uruguay derrotó a Brasil 2-1 en partido decisivo."
+  },
+  {
+    "nombre": "Copa Mundial México 1970",
+    "anio": 1970,
+    "sede": "México",
+    "campeon": "Brasil",
+    "subcampeon": "Italia",
+    "goleador": "Gerd Müller",
+    "equipos": 16,
+    "imagen": "mexico-1970.avif",
+    "slug": "mexico-1970",
+    "resumen": "Brasil de Pelé ganó su tercera Copa y se quedó con el trofeo Rimet.",
+    "descripcion": "Considerado el mejor Mundial de la historia. Brasil venció a Italia 4-1 en la final con un fútbol total."
+  },
+  {
+    "nombre": "Copa Mundial España 1982",
+    "anio": 1982,
+    "sede": "España",
+    "campeon": "Italia",
+    "subcampeon": "Alemania",
+    "goleador": "Paolo Rossi",
+    "equipos": 24,
+    "imagen": "espana-1982.avif",
+    "slug": "espana-1982",
+    "resumen": "Italia venció a Alemania 3-1 en la final de Madrid.",
+    "descripcion": "Paolo Rossi fue la gran figura del torneo tras volver de una suspensión. Italia ganó su tercer título."
+  },
+  {
+    "nombre": "Copa Mundial Francia 1998",
+    "anio": 1998,
+    "sede": "Francia",
+    "campeon": "Francia",
+    "subcampeon": "Brasil",
+    "goleador": "Davor Suker",
+    "equipos": 32,
+    "imagen": "francia-1998.avif",
+    "slug": "francia-1998",
+    "resumen": "Francia ganó su primer Mundial como local con Zidane como figura.",
+    "descripcion": "Con dos goles de Zidane de cabeza y uno de Petit, Francia venció a Brasil 3-0 en la final del Stade de France."
+  },
+  {
+    "nombre": "Copa Mundial Alemania 2006",
+    "anio": 2006,
+    "sede": "Alemania",
+    "campeon": "Italia",
+    "subcampeon": "Francia",
+    "goleador": "Miroslav Klose",
+    "equipos": 32,
+    "imagen": "alemania-2006.avif",
+    "slug": "alemania-2006",
+    "resumen": "Italia venció a Francia en la final en penales tras el cabezazo de Zidane.",
+    "descripcion": "Una final recordada por el cabezazo de Zidane a Materazzi. Italia ganó en tanda de penales."
+  },
+  {
+    "nombre": "Copa Mundial Qatar 2022",
+    "anio": 2022,
+    "sede": "Qatar",
+    "campeon": "Argentina",
+    "subcampeon": "Francia",
+    "goleador": "Kylian Mbappé",
+    "equipos": 32,
+    "imagen": "qatar-2022.avif",
+    "slug": "qatar-2022",
+    "resumen": "Argentina campeón tras una final épica ante Francia.",
+    "descripcion": "Primer Mundial en Medio Oriente. Argentina ganó en penales su tercer título tras empatar 3-3 con Francia."
+  }
+]
