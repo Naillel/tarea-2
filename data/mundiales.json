@@ -7,7 +7,7 @@
     "subcampeon": "Argentina",
     "goleador": "Guillermo Stábile",
     "equipos": 13,
-    "imagen": "uruguay-1930.avif",
+    "imagen": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1930",
     "slug": "uruguay-1930",
     "resumen": "El primer Mundial de la historia, organizado por Uruguay.",
     "descripcion": "Uruguay fue sede y campeón del primer torneo mundialista, venciendo a Argentina 4-2 en la final."
@@ -20,7 +20,7 @@
     "subcampeon": "Brasil",
     "goleador": "Ademir de Menezes",
     "equipos": 13,
-    "imagen": "brasil-1950.avif",
+    "imagen": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1950",
     "slug": "brasil-1950",
     "resumen": "El Maracanazo: Uruguay venció a Brasil en su propia casa.",
     "descripcion": "En el estadio Maracaná ante 200.000 espectadores, Uruguay derrotó a Brasil 2-1 en partido decisivo."
@@ -33,7 +33,7 @@
     "subcampeon": "Italia",
     "goleador": "Gerd Müller",
     "equipos": 16,
-    "imagen": "mexico-1970.avif",
+    "imagen": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1970",
     "slug": "mexico-1970",
     "resumen": "Brasil de Pelé ganó su tercera Copa y se quedó con el trofeo Rimet.",
     "descripcion": "Considerado el mejor Mundial de la historia. Brasil venció a Italia 4-1 en la final con un fútbol total."
@@ -46,7 +46,7 @@
     "subcampeon": "Alemania",
     "goleador": "Paolo Rossi",
     "equipos": 24,
-    "imagen": "espana-1982.avif",
+    "imagen": "https://althistory.fandom.com/es/wiki/Copa_Mundial_de_F%C3%BAtbol_Espa%C3%B1a_1982_(ASXX)",
     "slug": "espana-1982",
     "resumen": "Italia venció a Alemania 3-1 en la final de Madrid.",
     "descripcion": "Paolo Rossi fue la gran figura del torneo tras volver de una suspensión. Italia ganó su tercer título."
@@ -59,7 +59,7 @@
     "subcampeon": "Brasil",
     "goleador": "Davor Suker",
     "equipos": 32,
-    "imagen": "francia-1998.avif",
+    "imagen": "https://futbol.fandom.com/es/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1998",
     "slug": "francia-1998",
     "resumen": "Francia ganó su primer Mundial como local con Zidane como figura.",
     "descripcion": "Con dos goles de Zidane de cabeza y uno de Petit, Francia venció a Brasil 3-0 en la final del Stade de France."
@@ -72,7 +72,7 @@
     "subcampeon": "Francia",
     "goleador": "Miroslav Klose",
     "equipos": 32,
-    "imagen": "alemania-2006.avif",
+    "imagen": "https://revenge-history.fandom.com/es/wiki/Mundial_de_Alemania_2006",
     "slug": "alemania-2006",
     "resumen": "Italia venció a Francia en la final en penales tras el cabezazo de Zidane.",
     "descripcion": "Una final recordada por el cabezazo de Zidane a Materazzi. Italia ganó en tanda de penales."
@@ -85,7 +85,7 @@
     "subcampeon": "Francia",
     "goleador": "Kylian Mbappé",
     "equipos": 32,
-    "imagen": "qatar-2022.avif",
+    "imagen": "https://futbolworld.fandom.com/es/wiki/Copa_Mundial_de_La_FIFA_Qatar_2022",
     "slug": "qatar-2022",
     "resumen": "Argentina campeón tras una final épica ante Francia.",
     "descripcion": "Primer Mundial en Medio Oriente. Argentina ganó en penales su tercer título tras empatar 3-3 con Francia."
