@@ -30,37 +30,37 @@ A continuación se muestran las ejecuciones de las rutas y capturas correspondie
 
 1. `xh GET :4321/mundiales`
 
-	![mundiales 1](imagenes/Windows PowerShell 6_11_2026 3_10_14 PM.png)
+	![mundiales 1](imagenes/Windows%20PowerShell%206_11_2026%203_10_14%20PM.png)
 
 2. `xh GET :4321/mundiales include==full`
 
-	![mundiales full](imagenes/Windows PowerShell 6_11_2026 3_10_42 PM.png)
+	![mundiales full](imagenes/Windows%20PowerShell%206_11_2026%203_10_42%20PM.png)
 
 3. `xh GET :4321/mundial/qatar-2022`
 
-	![qatar 2022](imagenes/Windows PowerShell 6_11_2026 3_10_59 PM.png)
+	![qatar 2022](imagenes/Windows%20PowerShell%206_11_2026%203_10_59%20PM.png)
 
 4. `xh GET :4321/mundial/inexistente`  # -> 404 JSON
 
-	![inexistente 404](imagenes/Windows PowerShell 6_11_2026 3_11_24 PM.png)
+	![inexistente 404](imagenes/Windows%20PowerShell%206_11_2026%203_11_24%20PM.png)
 
 5. `xh GET :4321/campeon/Argentina`
 
-	![campeon Argentina](imagenes/Windows PowerShell 6_11_2026 3_11_36 PM.png)
+	![campeon Argentina](imagenes/Windows%20PowerShell%206_11_2026%203_11_36%20PM.png)
 
 6. `xh GET :4321/random`
 
-	![random](imagenes/Windows PowerShell 6_11_2026 3_12_04 PM.png)
+	![random](imagenes/Windows%20PowerShell%206_11_2026%203_12_04%20PM.png)
 
 7. `xh GET :4321/search/final`
 
-	![search final](imagenes/Windows PowerShell 6_11_2026 3_12_22 PM.png)
+	![search final](imagenes/Windows%20PowerShell%206_11_2026%203_12_22%20PM.png)
 
 8. `xh GET :4321/search/ab`
 
-	![search ab](imagenes/Windows PowerShell 6_11_2026 3_12_50 PM.png)
+	![search ab](imagenes/Windows%20PowerShell%206_11_2026%203_12_50%20PM.png)
 
 9. Captura adicional
 
-	![extra](imagenes/Windows PowerShell 6_11_2026 3_13_14 PM.png)
+	![extra](imagenes/Windows%20PowerShell%206_11_2026%203_13_14%20PM.png)
 
